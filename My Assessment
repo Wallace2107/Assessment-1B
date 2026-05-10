@@ -1,0 +1,131 @@
+  Question 1a
+Map each network device (router, switch, hub) to the correct OSI layer and describe how 
+each contributes to compliance with network segmentation requirements.
+
+                               Answer to 1a
+Routers operate at the network layer of the OSI model,making routing decisions based on 
+on IP routers use IP addresses to determine the best path for data to travel between 
+networks 
+
+Switches operate at the data link layer of the OSI model and are more efficient at directing 
+traffic 
+
+Hubs operates at the physical layer of the OSI model and broadcast data to all devices on the 
+network regardless of the intended recipient 
+
+
+Question 1b
+ Configure a basic network segmentation plan (conceptually or using Packet Tracer/GNS3) showing 
+which department belongs to which VLAN.
+
+                                       Answer to 1b
+                                  I have a video and picture 
+                                  that covers this answer
+                                  in the respository
+
+
+Question 1c
+Identify one missing component in the Access Control Policy and update it (e.g., password rules, 
+allowed traffic, data classification)
+
+
+                                          Answer to 1c
+  The reality: An Access control policy is a written governance document (an administrative control).
+what goes into the policy is the "Allowed Traffic" rule set-the exact instructions that tell
+a firewall or router ACL what to permit and what to drop
+
+
+
+Since the lab setup only provided a router,a switch,and a hub, the routers’s Access Control
+List(ACLs) are acting as the internal firewall.Therefore, adding an "Allowed Traffic" section 
+to the policy document is exactly what was missing to tie the whole lab together.
+
+Question 2b
+ Identify which issue is an ethical hacking finding and which is an intellectual property/copyright 
+violation.
+
+                                             Answer to 2b
+
+  Ethical hacker also known as white hacker are security experts, organizations hire to find 
+weaknesses in their system before maliciuos hackers can exploit them these ethical hackers run 
+tests to see if they can break into the bank internal environment in a controled legal way. If 
+they find any gap or weaknesses in securitythey report them to the management, which can then 
+fix those issues beforre an actual attack happens
+
+defend cyber threat and identify vulnerabilities. ethical hacker discover weak password, outdated 
+software and other vulnberability that would otherwise expose the organization to risk 
+
+penetration testing : penetration testing is a structure approach to ethical hacking. its a 
+planned, authorized attempt to evaluate a system's security by exploiting vulnerabilities, just
+like a real attacker might penetration testing helps an organization discover vulnerabilities and 
+flows in thier system that they might not have otherwise been able to find. it is a must for 
+organization to levegrage and use penetration testing 
+
+intellectual property: refers to the legal right given to creators for their inventions, designs
+symbols, names and images used in commerce. This can include patents,trademarks trade secret and 
+copyright protections. it ensures that creators or owners have exclusive right to use or license
+their creations preventing unauthorized expectation
+
+copyright : copyright is a type of ip that specifically protects original works of authorship
+such as literary, musical and artistic works. It grants creators exclusive right to reproduce, 
+distribute, perform and display their works, while others must seek permission for use  
+
+Question 2c
+ Recommend two fixes that align with legal and ethical pentesting guidelines (e.g., disabling indexing, 
+enforcing authentication, DMCA compliance)
+
+                                     Answer to 2c    
+  Authorization : authoriztion is foundational in ethical hacking . ethical hacker must secure 
+explicit written permission from the organization before conducting any test, this permission should 
+defines the scope of the testing incuding what system, network or applications can be tested and 
+any specific area to avoid. Unauthorized access even with the best of intension is considered 
+illegal, unethical and can have severe legal and personal or proffessional repercussions 
+
+
+  integrity and accountability : integrity is a call value in ethical hacking, ethical
+hackers must approach their job with   
+honesty and responsibility, accurately reporting their findings without embellishment or 
+omission. they should avoid using tools or techniques that fall outside the agreed-upon 
+scope, even if they come accross other vulnerabilities 
+
+
+Question 3a
+ Subnet the IPv4 space 10.10.0.0/24 into three segments:
+Medical devices
+Staff
+Guests Show your working.
+                          
+                                           Answer to 3a
+
+                                           I have a picture that 
+                                           that show the working for 
+                                           for this in the respository
+
+
+
+Question 3b
+Assign an example IPv6 address for the public server using the block 2001:DB8:ACAD::/64.
+
+
+                                        Answer to 3b
+
+                  prefix                 interface ID
+
+         2001:0db8:000a:0000          0000:0000:0000:0000
+
+
+Question 3c
+ Explain how ISC² or ISACA frameworks can support the organization’s compliance and network redesign 
+(e.g., CIS controls, COBIT, security governance).  
+
+
+                                       Answer to 3c
+  ISACA (Information Systems Audit and Control Association) helps organizations strengthen their 
+digital trust, security, and governance by providing industry-leading frameworks, professional 
+certifications, and best practices in audit, risk management and cybersecurity
+  COBIT (Control Objectives for Information and Related Technologies) is a widely usedframework
+developed by ISACA to manage and govern enterprise IT, ensuring technology aligns with business
+goals, optimizes risks, and creates value. It is primarily used to bridge the gap between technical
+issues, business risks, and control requirements.
+
+
